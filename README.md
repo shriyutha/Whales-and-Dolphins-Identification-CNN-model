@@ -55,3 +55,7 @@ For this project we will use one very simple model. The model will have five lay
 * BatchNormalization
 * Output layer using Dense with unique categories and activation function as 'softmax'
 * Optimizer Adam
+
+## Results:
+
+<img width="1401" alt="Screen Shot 2023-03-03 at 2 17 15 PM" src="https://user-images.githubusercontent.com/81925727/222844987-c823e53a-5da1-4966-993a-2a0b0c49c47c.png">
