@@ -1,4 +1,4 @@
-# HAPPY WHALES AND DOLPHINS INDENTIFICATION - CNN Model
+# HAPPY WHALES AND DOLPHINS IDENTIFICATION - CNN Model
 
 Competition Link: https://www.kaggle.com/competitions/happy-whale-and-dolphin
 
@@ -8,7 +8,7 @@ Data Source: https://www.kaggle.com/competitions/happy-whale-and-dolphin/data
 
 1. train_images/ - a folder containing the training images
 2. train.csv - provides the species and the individual_id for each of the training images
-3. test_images/ - a folder containing the test images; for each image, your task is to predict the individual_id; no species information is given for the test data; there are individuals in the test data that are not observed in the training data, which should be predicted as new_individual.
+3. test_images/ - a folder containing the test images; for each image, the task is to predict the individual_id; no species information is given for the test data
 4. sample_submission.csv - a sample submission file in the correct format
 
 ### This notebook has the follow steps:
